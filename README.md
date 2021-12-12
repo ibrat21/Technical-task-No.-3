@@ -1,3 +1,4 @@
+[![Python application](https://github.com/ibrat21/Technical-task-No.-3/actions/workflows/techprog.yml/badge.svg)](https://github.com/ibrat21/Technical-task-No.-3/actions/workflows/techprog.yml)
 # Техническое задание №3
 
 **Выполнил**: Тургунбоев Ибратбек Шухратжонович, 2 курс, группа ББИ2002
